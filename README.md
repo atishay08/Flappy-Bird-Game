@@ -6,7 +6,7 @@ To run this game on your local machine, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/flappy-bird-pygame.git
+git clone https://github.com/atishay08/Flappy-Bird-Game.git
 cd flappy-bird-pygame
 Create and activate a virtual environment (optional but recommended):
 
